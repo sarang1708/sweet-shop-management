@@ -1,4 +1,5 @@
 Sweet Shop Management System
+
 A full-stack Sweet Shop Management System built as a TDD kata for placement assessment. It provides a RESTful backend API with JWT authentication and a React single-page application (SPA) frontend to manage sweets inventory.
 
 Features
@@ -85,7 +86,8 @@ Manual tests for login flow, dashboard loading from API, purchase flow, and admi
 (If you add Jest tests later, update this section with npm test commands and results.)
 
 Screenshots
-
+login.png-> login
+dashboard.png-> dashboard
 Login page
 Dashboard with sweets and purchase button
 Admin page creating a sweet
